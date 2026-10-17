@@ -9,6 +9,10 @@ The Super Store Sales Dashboard transforms raw retail transaction data into mean
 The dashboard enables users to monitor business performance, identify sales trends, understand customer purchasing behavior, and evaluate product and regional performance to support data-driven decision-making.
 
 
+<img width="1098" height="621" alt="Super_Sales_dashboard" src="https://github.com/user-attachments/assets/1a589c4e-4158-466b-87fe-47cf792615e1" />
+
+
+
 ## 🎯 Project Objectives
 
 * Analyze overall sales, quantity sold, and profitability.
